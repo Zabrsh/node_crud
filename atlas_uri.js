@@ -1,0 +1,1 @@
+module.exports = uri = "mongodb+srv://abrsh:12345@cluster0.jzoq2qm.mongodb.net/?retryWrites=true&w=majority"
